@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DuttiW-Medium.ttf",
+      "sha1": "5a38d3cabc44654910484092b3d08be37ae105eb"
+    },
+    {
+      "path": "src/assets/fonts/DuttiW-Regular.ttf",
+      "sha1": "9921cda097e66f9f5504a423d02f64ec7f97327a"
+    },
+    {
+      "path": "src/assets/fonts/DuttiW-SemiBold.ttf",
+      "sha1": "b76801242fe2407c937b0b6c337bfe4e2d1d63c9"
+    },
+    {
+      "path": "src/assets/fonts/DuttiWExtended-Bold.ttf",
+      "sha1": "6c25afca3dd196a380f8629c23dc3e2fc1232f39"
+    },
+    {
+      "path": "src/assets/fonts/DuttiWExtended-ExtraBold.ttf",
+      "sha1": "d5c946a1097b3e98d702458b79750f7e08f24d0e"
+    },
+    {
+      "path": "src/assets/fonts/fa-v4compatibility.ttf",
+      "sha1": "a4869131afdb278ad7044565243aa95b102447bf"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome6Brands-Regular.ttf",
+      "sha1": "12c99dd60d3016fa111c31cedfa610a89140fdb3"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome6Duotone-Solid.ttf",
+      "sha1": "b0b37af94a151aba1cd5a8841004f56948262a77"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome6Pro-Light.ttf",
+      "sha1": "220cdfee8751cf72d733c52380f019650f214910"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome6Pro-Regular.ttf",
+      "sha1": "43732a2e69214f663b2d7b0a78b0fb6480bc7a0c"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome6Pro-Solid.ttf",
+      "sha1": "1fd11a0a5caa695e5392a0a856c40469359d9cb9"
+    },
+    {
+      "path": "src/assets/fonts/FontAwesome6Pro-Thin.ttf",
+      "sha1": "a78e775e6fb05bd08d3943439331acd37c200268"
+    },
+    {
+      "path": "src/assets/fonts/MangoSans-Light.ttf",
+      "sha1": "28e237d1a129e151403fdc6af753bc45e0d9429c"
+    },
+    {
+      "path": "src/assets/fonts/MangoSans-Regular.ttf",
+      "sha1": "007771a74e10617c130f0dd699210778ddef9f29"
+    },
+    {
+      "path": "src/assets/fonts/MissZenne.ttf",
+      "sha1": "fd925bca6b10188f63ffff4ec63d81f010758912"
+    },
+    {
+      "path": "src/assets/fonts/Vatkali.ttf",
+      "sha1": "69d35b2aaaf63f4426a647c8cccf376e85943f49"
+    }
+  ]
+}
